@@ -48,7 +48,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": 1126748650488594432,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 864690150280675328,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Dak me off",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
