@@ -29,7 +29,7 @@ export const managers = [
       "managerID": "862899044702347264",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mahomeless Kids",
       "location": null, // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
       "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
