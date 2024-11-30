@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2020, the CTK Fantasy Football League (CTKFFL) has evolved into something amazing. The CTKFFL had small beginnings, starting off as a simple idea to create a fantasy football league for fun. After four years, multiple commissoner changes, and even platform changes, this version of the league looks like it will stay for a long time.</p>
+  <p>In the span of these last few years, every manager in this league has shown massive improvements to their football IQ, management skills, and even negotiation tactics (well, some of us at least for that last point.)</p>
+  <p>While we've had some controversies in the past, the issues we had encountered were too weak to break the core of this league. The passion the managers have in this league are completley unmatched, where you could not find another group of people as resilient as us.</p>
+  <p>As we go into the future, one constant will always remain. Every manager in the CTKFFL has all but two goals. Win the Nathan Currah Legacy Trophy, and avoid winning the Toilet Bowl. With the growth of each manager seeming to be exponential, each year will become increasingly difficult to pull away with a championship.</p>
+  <p>Let us keep this league going on for as long as possible, everyone.</p>
 `;
 
 /*   STEP 3   */
