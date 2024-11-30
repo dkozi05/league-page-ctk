@@ -29,7 +29,7 @@ export const managers = [
       "managerID": "862899044702347264",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mahomeless Kids",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
+      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win. Ever since GM / Owner Callum Witter started this franchise this team in 2020, a winning culture is all he's known. For every season in the Sleeper-era of the CTKFFL, Witter has brought his team to the playoffs, making multiple semi-final appearances in this time frame. As one of the more elite managers in this league, Witter never fails to impress.",
       "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -39,10 +39,10 @@ export const managers = [
         link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
-     // "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-     // "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+     "favoritePlayer": 4046, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      //"valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
      // "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "",
+      "philosophy": "null",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -51,7 +51,7 @@ export const managers = [
       "managerID": "862895123120377856",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Caleb's Pride Parade",
       "location": null, // (optional)
-      "bio": "2023-2024 CTK Fantasy Football Champion.",
+      "bio": "<p>Ever since GM / Owner Dmitri \"Dim\" Koziarz began his fantasy football career in 2020, he has known nothing but success. Every single season in the Sleeper-era of the CTKFFL, this team has easily made the playoffs. Playoff appearances were not enough for Dim, however. In the 2023-2024 season, his squad managed to win it all, cementing Dim's name in CTKFFL history for eternity.<p> <p>As the new commissioner for the CTKFFL, Dim has completley revamped the league. His only goal as the commish? Have this league survive for the rest of time.",
       "photo": "https://sleepercdn.com/uploads/c0869e1e864a84d0f58b0a0a9dd8d861.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
