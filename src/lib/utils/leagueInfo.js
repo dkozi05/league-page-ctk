@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2020, the CTK Fantasy Football League (CTKFFL) has evolved into something amazing. The CTKFFL had small beginnings, starting off as a simple idea to create a fantasy football league for fun. After four years, multiple commissoner changes, and even platform changes, this version of the league looks like it will stay for a long time.</p>
+  <p>Founded in 2021, the CTK Fantasy Football League (CTKFFL) has evolved into something amazing. The CTKFFL had small beginnings, starting off as a simple idea to create a fantasy football league for fun. After four years, multiple commissoner changes, and even platform changes, this version of the league looks like it will stay for a long time.</p>
   <p>In the span of these last few years, every manager in this league has shown massive improvements to their football IQ, management skills, and even negotiation tactics (well, some of us at least for that last point.)</p>
   <p>While we've had some controversies in the past, the issues we had encountered were too weak to break the core of this league. The passion the managers have in this league are completley unmatched, where you could not find another group of people as resilient as us.</p>
   <p>As we go into the future, one constant will always remain. Every manager in the CTKFFL has all but two goals. Win the Nathan Currah Legacy Trophy, and avoid winning the Toilet Bowl. With the growth of each manager seeming to be exponential, each year will become increasingly difficult to pull away with a championship.</p>
@@ -50,7 +50,7 @@ export const managers = [
       "managerID": "862895123120377856",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Caleb's Pride Parade",
       "location": null, // (optional)
-      "bio": "<p>Ever since GM / Owner Dmitri \"Dim\" Koziarz began his fantasy football career in 2020, he has known nothing but success. Every single season in the Sleeper-era of the CTKFFL, this team has easily made the playoffs. Playoff appearances were not enough for Dim, however. In the 2023-2024 season, his squad managed to win it all, cementing Dim's name in CTKFFL history for eternity.<p> <p>As the new commissioner for the CTKFFL, Dim has completley revamped the league. His only goal as the commish? Have this league survive for the rest of time.",
+      "bio": "<p>Ever since GM / Owner Dmitri \"Dim\" Koziarz began his fantasy football career in 2021, he has known nothing but success. Every single season in the Sleeper-era of the CTKFFL, this team has easily made the playoffs. Playoff appearances were not enough for Dim, however. In the 2023-2024 season, his squad managed to win it all, cementing Dim's name in CTKFFL history for eternity.<p> <p>As the new commissioner for the CTKFFL, Dim has completley revamped the league. His only goal as the commish? Have this league survive for the rest of time.",
       "photo": "https://sleepercdn.com/uploads/c0869e1e864a84d0f58b0a0a9dd8d861.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -72,7 +72,7 @@ export const managers = [
       "managerID": "862915446406533120",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "The Slow White Broncos",
       "location": null, // (optional)
-      "bio": "Founded in 2020, The Slow White Boncos has become one of the CTK Fantasy Football League's most prominent teams. Ran by Gm / Owner Ivan \"The Juice Is Luice\" Maltar, The Slow White Broncos encompasses everything a team in the CTKFFL should have: Competitiveness, intelligence, and consistancy. Since the beginning of the Sleeper-era, The Slow White Broncos have not missed the playoffs, staying as one of the most consistent teams in the League.",
+      "bio": "Founded in 2021, The Slow White Boncos has become one of the CTK Fantasy Football League's most prominent teams. Ran by Gm / Owner Ivan \"The Juice Is Luice\" Maltar, The Slow White Broncos encompasses everything a team in the CTKFFL should have: Competitiveness, intelligence, and consistancy. Since the beginning of the Sleeper-era, The Slow White Broncos have not missed the playoffs, staying as one of the most consistent teams in the League.",
       "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -93,7 +93,7 @@ export const managers = [
       "managerID": "862895569268502528",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "The Legion of Boom",
       "location": null, // (optional)
-      "bio": "<p>The Legion of Boom was founded by Coach / GM JP \"Jap\" Correia in 2021 as a founding member of the CTKFFL. The Legion of Boom is the epitome of a tenacious spirit, never backing down in the face of adversity and controversy. In 2022, The Legion of Boom came last, cementing their legacy as the winner of the 2022 Toilet Bowl. <p> <p> The 2022 was highlighted by the league punishment: Cage treatment. Controversially, Jap did not complete the punishment, creating a stain on The Legion of Boom's legacy. However, this incident ushered a new era of punishments in the CTKFFL, issuing refined punishments and contractual obligations starting in the 2024 season. <p> <p> Having yet to make a playoff appearance, Jap is looking to take his team there in the 2024 season. <p>",
+      "bio": "<p>The Legion of Boom was founded by Coach/GM JP \"Jap\" Correia in 2021 as a founding member of the CTKFFL. The Legion of Boom is the epitome of a tenacious spirit, never backing down in the face of adversity and controversy. In 2022, The Legion of Boom came last, cementing their legacy as the winner of the 2022 Toilet Bowl. <p> <p> The 2022 season was highlighted by the league punishment: Cage treatment. Controversially, Jap did not complete the punishment, creating a stain on The Legion of Boom's legacy. However, this incident ushered a new era of punishments in the CTKFFL, issuing refined punishments and contractual obligations starting in the 2024 season. <p> <p> Having yet to make a playoff appearance, Jap is looking to take his team there in the 2024 season. <p>",
       "photo": "/managers/images.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -156,7 +156,7 @@ export const managers = [
       "managerID": "864661973332246528",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Osama Bin Madden",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
+      "bio": "Osama Bin Madden and Coach/GM Allen \"Seppi\" Hawa have been a constant presence in the CTKFFL. Since 2021, Osama Bin Madden has endured tribulation and hardships since the pre-Sleeper era. After three seasons, multiple years in the losers bracket, and even a Toliet Bowl Finals appearance, Seppi and his team look to make their first playoff appearance in the 2024 season.",
       "photo": "https://sleepercdn.com/uploads/6ef6d229ada78d8749c6a3d6bc71b225.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
