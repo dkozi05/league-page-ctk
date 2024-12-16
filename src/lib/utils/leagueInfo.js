@@ -93,8 +93,8 @@ export const managers = [
       "managerID": "862895569268502528",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "The Legion of Boom",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
-      "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
+      "bio": "<p>The Legion of Boom was founded by Coach / GM JP \"Jap\" Correia in 2021 as a founding member of the CTKFFL. The Legion of Boom is the epitome of a tenacious spirit, never backing down in the face of adversity and controversy. In 2022, The Legion of Boom came last, cementing their legacy as the winner of the 2022 Toilet Bowl. <p> <p> The 2022 was highlighted by the league punishment: Cage treatment. Controversially, Jap did not complete the punishment, creating a stain on The Legion of Boom's legacy. However, this incident ushered a new era of punishments in the CTKFFL, issuing refined punishments and contractual obligations starting in the 2024 season. <p> <p> Having yet to make a playoff appearance, Jap is looking to take his team there in the 2024 season. <p>",
+      "photo": "/managers/images.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
