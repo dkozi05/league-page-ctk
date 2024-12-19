@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "managerID": "862899044702347264",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Mahomeless Kids",
+      "name": "Callum Witter",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win. Ever since GM / Owner Callum Witter started this franchise this team in 2020, a winning culture is all he's known. For every season in the Sleeper-era of the CTKFFL, Witter has brought his team to the playoffs, making multiple semi-final appearances in this time frame. As one of the more elite managers in this league, Witter never fails to impress.",
       "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
@@ -48,7 +48,7 @@ export const managers = [
 
   {
       "managerID": "862895123120377856",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Caleb's Pride Parade",
+      "name": "Dmitri \"Dim\" Koziarz",
       "location": null, // (optional)
       "bio": "<p>Ever since GM / Owner Dmitri \"Dim\" Koziarz began his fantasy football career in 2021, he has known nothing but success. Every single season in the Sleeper-era of the CTKFFL, this team has easily made the playoffs. Playoff appearances were not enough for Dim, however. In the 2023-2024 season, his squad managed to win it all, cementing Dim's name in CTKFFL history for eternity.<p> <p>As the new commissioner for the CTKFFL, Dim has completley revamped the league. His only goal as the commish? Have this league survive for the rest of time.",
       "photo": "https://sleepercdn.com/uploads/c0869e1e864a84d0f58b0a0a9dd8d861.jpg", // square ratio recommended (no larger than 500x500)
@@ -70,7 +70,7 @@ export const managers = [
 
   {
       "managerID": "862915446406533120",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "The Slow White Broncos",
+      "name": "Ivan Maltar",
       "location": null, // (optional)
       "bio": "Founded in 2021, The Slow White Boncos has become one of the CTK Fantasy Football League's most prominent teams. Ran by Gm / Owner Ivan \"The Juice Is Luice\" Maltar, The Slow White Broncos encompasses everything a team in the CTKFFL should have: Competitiveness, intelligence, and consistancy. Since the beginning of the Sleeper-era, The Slow White Broncos have not missed the playoffs, staying as one of the most consistent teams in the League.",
       "photo": "/managers/Bronco_chase.webp", // square ratio recommended (no larger than 500x500)
@@ -91,7 +91,7 @@ export const managers = [
     },
   {
       "managerID": "862895569268502528",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "The Legion of Boom",
+      "name": "JP \"Jap\" Correia",
       "location": null, // (optional)
       "bio": "<p>The Legion of Boom was founded by Coach/GM JP \"Jap\" Correia in 2021 as a founding member of the CTKFFL. The Legion of Boom is the epitome of a tenacious spirit, never backing down in the face of adversity and controversy. In 2022, The Legion of Boom came last, cementing their legacy as the winner of the 2022 Toilet Bowl. <p> <p> The 2022 season was highlighted by the league punishment: Cage treatment. Controversially, Jap did not complete the punishment, creating a stain on The Legion of Boom's legacy. However, this incident ushered a new era of punishments in the CTKFFL, issuing refined punishments and contractual obligations starting in the 2024 season. <p> <p> Having yet to make a playoff appearance, Jap is looking to take his team there in the 2024 season. <p>",
       "photo": "/managers/images.jpg", // square ratio recommended (no larger than 500x500)
@@ -112,7 +112,7 @@ export const managers = [
     },
   {
       "managerID": "864636578381848576",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "2 Gurleys 1 Kupp",
+      "name": "Luka Mikan",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
       "photo": "https://sleepercdn.com/uploads/14df17b380439e65135293600ef56d17.jpg", // square ratio recommended (no larger than 500x500)
@@ -133,7 +133,7 @@ export const managers = [
     },
   {
       "managerID": "864638123248836608",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Hervy Franchise",
+      "name": "Josh \"Hervy\" Hervatin",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
       "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -154,7 +154,7 @@ export const managers = [
     },
   {
       "managerID": "864661973332246528",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Osama Bin Madden",
+      "name": "Allen \"Seppi\" Hawa",
       "location": null, // (optional)
       "bio": "Osama Bin Madden and Coach/GM Allen \"Seppi\" Hawa have been a constant presence in the CTKFFL. Since 2021, Osama Bin Madden has endured tribulation and hardships since the pre-Sleeper era. After three seasons, multiple years in the losers bracket, and even a Toliet Bowl Finals appearance, Seppi and his team look to make their first playoff appearance in the 2024 season.",
       "photo": "https://sleepercdn.com/uploads/6ef6d229ada78d8749c6a3d6bc71b225.jpg", // square ratio recommended (no larger than 500x500)
@@ -175,7 +175,7 @@ export const managers = [
     },
   {
       "managerID": "864663368294891520",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "The Golden Fan Club",
+      "name": "TMassimo Scorcia",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
       "photo": "https://sleepercdn.com/uploads/d4581da4bff09e85eaaa56b93205441a.jpg", // square ratio recommended (no larger than 500x500)
@@ -196,7 +196,7 @@ export const managers = [
     },
   {
       "managerID": "864690150280675328",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Dak me off",
+      "name": "Adriano Paganelli",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
       "photo": "/managers/pag.jpeg", // square ratio recommended (no larger than 500x500)
@@ -217,7 +217,7 @@ export const managers = [
     },
   {
       "managerID": "1126373470918660096",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Any Given Sun God",
+      "name": "Nathan Currah",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
       "photo": "/managers/nat.jpeg", // square ratio recommended (no larger than 500x500)
