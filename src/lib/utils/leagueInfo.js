@@ -36,7 +36,7 @@ export const managers = [
       "rival": {
         name: "Dak me off", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
+        image: "/managers/pag.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
      "favoritePlayer": 4046, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       //"valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -73,7 +73,7 @@ export const managers = [
       "name": "The Slow White Broncos",
       "location": null, // (optional)
       "bio": "Founded in 2021, The Slow White Boncos has become one of the CTK Fantasy Football League's most prominent teams. Ran by Gm / Owner Ivan \"The Juice Is Luice\" Maltar, The Slow White Broncos encompasses everything a team in the CTKFFL should have: Competitiveness, intelligence, and consistancy. Since the beginning of the Sleeper-era, The Slow White Broncos have not missed the playoffs, staying as one of the most consistent teams in the League.",
-      "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/malt.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -101,7 +101,7 @@ export const managers = [
       "rival": {
         name: "Dak me off", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
+        image: "/managers/pag.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
       "favoritePlayer": 9226, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      // "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -122,7 +122,7 @@ export const managers = [
       "rival": {
         name: "Dak me off", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
+        image: "/managers/pag.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
       "favoritePlayer": 2216, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      // "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -136,7 +136,7 @@ export const managers = [
       "name": "Hervy Franchise",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
-      "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/herv.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -164,7 +164,7 @@ export const managers = [
       "rival": {
         name: "CTK Fantasy Football League", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
+        image: "badge.png", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
       "favoritePlayer": 4866, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      // "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -185,7 +185,7 @@ export const managers = [
       "rival": {
         name: "Dak me off", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
+        image: "/managers/pag.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
       "favoritePlayer": 4034, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      // "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -199,7 +199,7 @@ export const managers = [
       "name": "Dak me off",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
-      "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/pag.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -220,14 +220,14 @@ export const managers = [
       "name": "Any Given Sun God",
       "location": null, // (optional)
       "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
-      "photo": "/managers/IMG_5821.jpeg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/nat.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Dak me off", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/IMG_5821.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
+        image: "/managers/pag.jpeg", // either a specific manager photo or IMG_5821.jpeg or '/managers/question.png'
       },
       "favoritePlayer": 6770, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      // "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
