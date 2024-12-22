@@ -175,9 +175,9 @@ export const managers = [
     },
   {
       "managerID": "864663368294891520",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "TMassimo Scorcia",
+      "name": "Massimo Scorcia",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
+      "bio": "Founded in 2021 (and rebranded in 2024), The Golden Fan Club has an extensive history of success. Ran by GM / owner Massimo Scorcia, his squad of players have managed to make the playoffs every single season in the Sleeper-era. After a string of failure early in the 2024 season, Massimo had rebranded to The Golden Fan Club, hoping this would revitalize his team. With this rebrand, Massimo looks forward to finally appearing in a championship game in 2024.",
       "photo": "https://sleepercdn.com/uploads/d4581da4bff09e85eaaa56b93205441a.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -198,7 +198,7 @@ export const managers = [
       "managerID": "864690150280675328",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Adriano Paganelli",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
+      "bio": "Founded in 2021, GM / owner Adriano Paganelli has yet to make a name for himself in the CTKFFL. However, just because the history for this franchise is thin, it does not mean Adriano is a bad manager. He has never made a Toilet Bowl appearance, even in the pre-Sleeper era. This league is young. Adriano will eventually carve out his own name in the history books of teh CTKFFL, aiming to win his very first championship. In 2024, he will continue to try and build his team to an elite level. His potential is limitless.",
       "photo": "/managers/pag.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -219,7 +219,7 @@ export const managers = [
       "managerID": "1126373470918660096",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Nathan Currah",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
+      "bio": "Founded in 2021, owner / GM Nathan Currah has helped shaped the CTKFFL to what it is today. Nathan played an important role in the evolution of this league. As commissioner, he moved the CTKFFL to Sleeper, ushering in the Sleeper era of the league, and paved the way to what this league is today. After some (undeserved) controversies, Nathan was outed as commissioner. From a pure fantasy football perspective, Nathan has been incredible, taking home th FIRST CTKFFL championship in the Sleeper era of the league. After a strong start to the 2024 season, Nathan will try to bring home another chip for Any Given Sun God.",
       "photo": "/managers/nat.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
