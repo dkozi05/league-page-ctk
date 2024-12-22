@@ -135,7 +135,7 @@ export const managers = [
       "managerID": "864638123248836608",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Josh \"Hervy\" Hervatin",
       "location": null, // (optional)
-      "bio": "Resilience. The one word that perfectly incapsulates what this team is made of. While not always a team filled with elite players, Mahomeless Kids always finds a way to win.",
+      "bio": " <p>Founded in 2021, GM / owner Josh \"Hervy\" Hervatin has been a consistent force in the CTKFFL. Since the pre-Sleeper era, Hervy has yet to miss the playoffs, establishing Hervy Franchise as one of the greats in the CTKFFL. While he has yet to win a championship, Hervy is determined to make a strong push for one in the 2024 season. <p> <p>  Hervy has been somewhat of a problamatic manager in the past, mainly due to absurd trade offers he has made to other members of the league. At its peak, Hervy's problamatic tendancies caused the commissioner of the time (Nathan Currah) to threaten disciplinary actions against him. Thanks to this intervention, Hervy's tendancies to cause issues to the league have greatly diminished. <p>",
       "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantas football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
