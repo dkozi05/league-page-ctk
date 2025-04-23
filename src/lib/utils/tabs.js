@@ -18,8 +18,8 @@ export const tabs = [
     },
     {
         icon: 'article',
-        label: 'Blog',
-        dest: '/blog',
+        label: 'Newsletter',
+        dest: 'https://ctknewsletter.substack.com/',
     },
     {
         icon: 'view_comfy',
