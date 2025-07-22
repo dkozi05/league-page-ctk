@@ -96,5 +96,5 @@
 </style>
 
 <div class="constitution">
-    <embed src="CTK Fantasy Football League - Dynasty Constitution.pdf" width="800px" height="2100px" />
+    <embed src="CTK Fantasy Football League - Redraft Constitution.pdf" width="800px" height="2100px" />
 </div>
